@@ -1,24 +1,9 @@
 # client
 
-## Project setup
-```
-npm install
-```
+## 在线体验链接
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[shop-client](http://shop.aidioute.cn/index.html) 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+账号：test01 
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+密码：123456
