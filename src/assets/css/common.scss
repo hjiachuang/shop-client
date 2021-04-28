@@ -1,0 +1,21 @@
+button.ant-btn {
+  border-radius: 4px !important;
+}
+
+.content-box {
+  padding: 20px;
+  background: #ffffff;
+  min-height: 720px;
+}
+
+.clearfix::after {
+  content: '';
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+.clearfix {
+  *zoom: 1;
+}
